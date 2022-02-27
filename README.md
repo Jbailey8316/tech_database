@@ -15,22 +15,27 @@ With this format, all production supervisors could open their respective workboo
 ### Transaction Entry Form
 ![](https://github.com/Jbailey8316/tech_database/blob/main/images/TransForm.PNG)
 
+### Transaction Form Load Coding
 ![](https://github.com/Jbailey8316/tech_database/blob/main/images/LoadTransForm.PNG)
 
+### Submit Request Coding
 ![](https://github.com/Jbailey8316/tech_database/blob/main/images/submitreq.PNG)
 
+### Submit Transaction Code
 ![](https://github.com/Jbailey8316/tech_database/blob/main/images/SubmitTrans.PNG)
 
+### Load Transaction Code
 ![](https://github.com/Jbailey8316/tech_database/blob/main/images/Loadtrans.PNG)
 
-After storing the needed data in MS Access from the production lines, the tech workbooks would retrieve and organize the data based on the unique identifiers.  The unique identifiers allowed the data to be assigned to the relevant tech for each production line.  The tech worbooks were used for tracking of all open, in-process and completed requests.  They allowed techs to assign categories to each issue which could then be utilized for cost tracking and other initiatives.  Reports could be generated and would be displayed on the dashboard of the tech workbook giving interested parties high level visibility of the collected data and its current status.
+After storing the needed data in MS Access from the production lines, the tech workbooks would retrieve and organize the data based on the unique identifiers.  The unique identifiers allowed the data to be assigned to the relevant tech for each production line.  The tech worbooks were used for tracking all open, in-process and completed requests.  They allowed techs to assign categories to each issue which could then be utilized for cost tracking and other initiatives.  Reports could be generated and would be displayed on the dashboard of the tech workbook giving interested parties high level visibility of the collected data and its current status.
 
+### Dashboard Views
 ![dashboard1](https://github.com/Jbailey8316/tech_database/blob/main/images/dashboard1.PNG)
 
 ![dashboard2](https://github.com/Jbailey8316/tech_database/blob/main/images/dashboard2.PNG)
 
-As techs updated the stored data, Access would also be modified to reflect the changes.  Upon opening or refreshing the other workbooks all data would then be pulled and updated.  This would give all connected workbooks access to live data.
+As techs updated the stored data, Access would also be modified to reflect the changes.  Upon opening or refreshing the other workbooks, their data would then be pulled and updated.  This would give all connected workbooks access to live data.
 
 
 ## Summary
-With this project implemented, the data was able to be analyzed and reports could be created and presented to management. This helped to drive accountability, implement cost reductions, and improve communication across all involved departments.  The main focus of this project was to collect and analyze bill of material (BOM) concerns related to incorrect parts, incorrect quantities, and kit structures.  It also allowed for the collection of continuos improvement projects, new model integration tracking, engineering print changes, production support requests, and employee suggestions. This setup also allowed all production lines to track open and closed issues and to follow up as needed.
+With this project implemented, the data was able to be analyzed and reports could be created and presented to management. This helped to drive accountability, implement cost reductions, and improve communication across all involved departments.  The main focus of this project was to collect and analyze bill of material (BOM) concerns related to incorrect parts, incorrect quantities, and kit structures.  It also allowed for the collection of continuous improvement projects, new model integration tracking, engineering print changes, production support requests, and employee suggestions. This setup also allowed all production lines to track open and closed issues and to follow up as needed.
